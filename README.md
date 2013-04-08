@@ -68,6 +68,10 @@ the drawable-hdpi folder in the library project.
 * [Olof Brickarp](http://www.yay.se) - <https://github.com/coolof>
 * [James Smith](http://loopj.com/) - <https://github.com/loopj>
 * [Alex Volovoy](http://bytesharp.com/) - <https://github.com/avolovoy>
+* Bo Maryniuk
+* [kidfolk](https://github.com/kidfolk)
+* [Tim Mahoney](https://github.com/timahoney)
+* [Richard Guest](https://github.com/quiffman)
 
 ## Are you using this widget?
 
